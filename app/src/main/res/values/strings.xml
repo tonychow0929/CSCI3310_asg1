@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Saving Private CU Piggy</string>
+    <string name="empty"></string>
+    <string name="food1">Chicken Tikka Kebab</string>
+    <string name="food2">Supreme Pizza</string>
+    <string name="food3">Vegan BBQ Pork</string>
+    <string name="food4">Vegan Fish Fillet</string>
+    <string name="default_rating">Rating: 0.0</string>
+    <string name="ebeneezer">Ebeneezer</string>
+    <string name="ebeneezer_longer">Ebeneezer\'s Kababs Pizzeria</string>
+    <string name="ebeneezer_address">G05, Lee Wai Chun Building</string>
+    <string name="vegether">Vegether</string>
+    <string name="vegether_longer">CU Vegether</string>
+    <string name="vegether_address">G14, Benjamin Franklin Centre</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="rating">Rating: </string>
+</resources>
